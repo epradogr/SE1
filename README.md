@@ -1,6 +1,6 @@
 
 # Repositorio de Elementos Programables
-En este repositorio subiré las prácticas que llevare a cabo durante el curso de elementos programables trabajando con un microcontrolador Raspberry Pi Pico 2. Dentro de cada práctica se incluirán evidencias, código y reporte de práctica.
+En este repositorio subiré las prácticas que llevare a cabo durante el curso de elementos programables trabajando con un microcontrolador Raspberry Pi Pico 2. Dentro de cada práctica se incluirá el código y documentación de cada práctica.
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/f37a0ce0-229b-406a-8c8a-63e35e013863" />
 
